@@ -1,2 +1,9 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/rec">
+        <file>about.png</file>
+        <file>cut.png</file>
+        <file>paste.jpg</file>
+        <file>redo.png</file>
+        <file>undo.png</file>
+    </qresource>
+</RCC>
